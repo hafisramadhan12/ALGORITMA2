@@ -12,10 +12,10 @@ $stok = 70;
 // mengisi ulang variabel dengan nilai baru
 $stok = 84;
 
-// Contoh: Salah
+// Contoh: ❌ Salah
 // $!nama = "hafis";
 // $46rosi = "hafiscode";
-// Contoh: Benar
+// Contoh: ✔️ Benar
 $nama = "hafidz";
 $rosi46 = "hafidz code";
 
